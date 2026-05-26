@@ -29,7 +29,7 @@ The project experimented with:
 - Node.js
 - Socket.io
 - MongoDB
-- Framer Motion
+- typescript
 
 ---
 
