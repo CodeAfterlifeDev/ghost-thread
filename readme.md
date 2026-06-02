@@ -30,6 +30,7 @@ The project experimented with:
 - Socket.io
 - MongoDB
 - typescript
+- appwrite
 
 ---
 
@@ -39,18 +40,3 @@ Dead project.
 
 The core messaging prototype worked, but the larger vision was never completed.
 
----
-
-## Future Ideas
-
-- Voice remnants
-- AI-generated forgotten context
-- Ghost replay mode
-- Dynamic message decay
-- Presence memory system
-
----
-
-## Screenshot
-
-Coming soon.v
