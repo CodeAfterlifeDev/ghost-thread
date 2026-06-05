@@ -36,7 +36,7 @@ The project experimented with:
 
 ## Current Status
 
-Dead project.
+Thriving
 
 The core messaging prototype worked, but the larger vision was never completed.
 
