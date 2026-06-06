@@ -36,7 +36,7 @@ The project experimented with:
 
 ## Current Status
 
-Thriving
+Thriving and working on some forgotten ideas
 
 The core messaging prototype worked, but the larger vision was never completed.
 
